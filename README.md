@@ -1,8 +1,10 @@
 # Face-Recognition
-Aljabar Linear - Project Based Learning 1
+Aljabar Linear - Project Based Learning 1 \n
 Aplikasi Nilai Eigen dan EigenFace pada Pengenalan Wajah
 
 # Informasi Umum
+Pengenalan wajah (Face Recognition) adalah teknologi biometrik yang bisa dipakai untuk mengidentifikasi wajah seseorang untuk berbagai kepentingan khususnya keamanan. \n
+Program pengenalan wajah melibatkan kumpulan citra wajah yang sudah disimpan pada database lalu berdasarkan kumpulan citra wajah tersebut, program dapat mempelajari bentuk wajah lalu mencocokkan antara kumpulan citra wajah yangsudah dipelajari dengan citra yang akan diidentifikasi
 
 # Tampilan Program
 
