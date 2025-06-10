@@ -9,7 +9,7 @@ Pengenalan wajah (Face Recognition) adalah teknologi biometrik yang bisa dipakai
 Program pengenalan wajah melibatkan kumpulan citra wajah yang sudah disimpan pada database lalu berdasarkan kumpulan citra wajah tersebut, program dapat mempelajari bentuk wajah lalu mencocokkan antara kumpulan citra wajah yangsudah dipelajari dengan citra yang akan diidentifikasi
 
 ## 🖥️ Tampilan Program
-![GUI]()
+![GUI](assets/TampilanFix.png)
 
 ## 📽️ Video Demo
 Berikut adalah video demo dari hasil akhir program.
@@ -24,9 +24,6 @@ Library
 - OpenCV
 - PIL
 - Numpy
-
-Project Structur
-
  
 ## 👥 Credits
 Kelompok 7 :
